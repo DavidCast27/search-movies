@@ -1,5 +1,5 @@
-// const API_KEY = '3fdf2347';
-const API_KEY = '4287ad07';
+const API_KEY = '123456789';
+
 const URL_BASE =`http://www.omdbapi.com/?apikey=${API_KEY}`;
 
 export function getMovies (movie)  {
