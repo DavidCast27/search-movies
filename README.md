@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+usando bulma
+usando env para la api key 
+usando imdb api
+basado en el curso de udemy ...
+
 ## Available Scripts
 
 In the project directory, you can run:
